@@ -1,4 +1,4 @@
 # cursoGit
 curso de Git
 
-[Veni a cursar](http://citcursos.com) 
+[Veni a cursar](http://psicologo-deportivo.com) 
